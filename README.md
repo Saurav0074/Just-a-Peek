@@ -1,6 +1,6 @@
 # Just-a-Peek
 
-This repository contains solutions to problems ranging to Machine Learning, Natural Language Processing and Computer Vision that I had been assigned as my application assessment for various AI-based organisations! All efforts have been made to explain each solution as neatly as time had allowed with the major objective of helping a newbie understand the real-world problems related to the domains of AI.
+This repository contains solutions to problems ranging from Machine Learning and Natural Language Processing to Computer Vision. These are what I had been assigned as my application assessment for various AI-based organisations. All efforts have been made to explain each solution as neatly as time had allowed with the major objective of helping a newbie understand the real-world problems related to the domains of AI.
 
 [Fragma Data Systems Assignment](https://github.com/Saurav0074/Fragma-Coding-Assessment): Requires to build a binary Classification Machine Learning Model for the given marketing analytics data. **Topics covered**: _Principal Component Analysis, Min-max Scaler, Machine learning classifiers, Grid Search Algorithm, Voting Classifier, Precision-Recall-Fscore based accuracy metric_
 
